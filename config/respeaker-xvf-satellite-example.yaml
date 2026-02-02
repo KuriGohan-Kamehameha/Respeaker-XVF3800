@@ -34,7 +34,7 @@ esphome:
   name: respeaker-xvf3800-assistant
   friendly_name: reSpeaker XVF3800 Assistant
   project:
-    name: formatbce.Respeaker XVF3800 Satellite
+    name: formatbce.respeaker-xvf3800-satellite
     version: 2026.1.2
   min_version: 2026.1.0
   on_boot:

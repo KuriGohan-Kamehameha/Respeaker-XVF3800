@@ -34,7 +34,7 @@ esphome:
   name: respeaker-xvf3800
   friendly_name: reSpeaker XVF-3800
   project:
-    name: fitoori.Respeaker XVF-3800 Satellite
+    name: fitoori.respeaker-xvf3800-satellite
     version: 2026.1.2
   min_version: 2026.1.0
   on_boot:
