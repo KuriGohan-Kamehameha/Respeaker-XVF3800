@@ -1489,6 +1489,7 @@ external_components:
     components:
       - respeaker_xvf3800
       - aic3104
+      - sendspin
   - source:
       # https://github.com/esphome/esphome/pull/12253
       type: git
@@ -1522,7 +1523,7 @@ external_components:
       type: git
       url: https://github.com/esphome/esphome
       ref: a6c0a861a014e64c67d46115eba8e5370777b80a
-    components: [mdns, sendspin]
+    components: [mdns]
     refresh: never
   - source:
       # https://github.com/esphome/esphome/pull/12429
